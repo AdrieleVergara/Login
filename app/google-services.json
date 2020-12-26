@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "853844546824",
+    "project_id": "firedoc-d1c87",
+    "storage_bucket": "firedoc-d1c87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853844546824:android:c200dc5bab27bcd63508bd",
+        "android_client_info": {
+          "package_name": "com.example.firedoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853844546824-49deov4igqsoe5ppbscgpg3pld0pjn8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF5Cu-NSwVwJ4URmb07-7g6nhXOgcwyN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853844546824-49deov4igqsoe5ppbscgpg3pld0pjn8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
